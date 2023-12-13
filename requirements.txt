@@ -2,4 +2,12 @@ google-cloud-aiplatform==1.38.0
 ipython==8.18.1
 Pillow==10.1.0
 python-dotenv
+pymupdf==1.23.7
+matplotlib==3.8.2
+networkx==3.2.1
+langchain-google-genai
+langchain==0.0.350
+langchain-community==0.0.3
+seaborn
+pandas
 
