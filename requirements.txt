@@ -1,0 +1,5 @@
+google-cloud-aiplatform==1.38.0
+ipython==8.18.1
+Pillow==10.1.0
+python-dotenv
+
