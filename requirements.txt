@@ -10,4 +10,6 @@ langchain==0.0.350
 langchain-community==0.0.3
 seaborn
 pandas
+pypdf
+chromadb
 
